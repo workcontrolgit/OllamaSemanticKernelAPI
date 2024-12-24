@@ -2,7 +2,7 @@
 using OllamaSharp;
 using OllamaSharp.Models;
 
-namespace OllamaSemanticKernelAPI.Extensions
+namespace OllamaSemanticKernelAPI.Services
 {
     public class OllamaService : IOllamaService
     {

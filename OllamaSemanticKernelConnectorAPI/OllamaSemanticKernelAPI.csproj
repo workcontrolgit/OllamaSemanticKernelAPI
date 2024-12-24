@@ -12,12 +12,7 @@
     <PackageReference Include="Microsoft.SemanticKernel" Version="1.32.0" />
     <PackageReference Include="Microsoft.SemanticKernel.Connectors.Ollama" Version="1.32.0-alpha" />
     <PackageReference Include="OllamaSharp" Version="4.0.11" />
-    <PackageReference Include="Riok.Mapperly" Version="4.1.1" />
     <PackageReference Include="Scalar.AspNetCore" Version="1.2.70" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Mappers\" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using OllamaSemanticKernelAPI.Extensions;
+using OllamaSemanticKernelAPI.Services;
 using OllamaSemanticKernelAPI.Interfaces;
 using OllamaSemanticKernelAPI.Models;
 using System.Threading;

@@ -1,6 +1,6 @@
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.ChatCompletion;
-using OllamaSemanticKernelAPI.Extensions;
+using OllamaSemanticKernelAPI.Services;
 using OllamaSemanticKernelAPI.Interfaces;
 using OllamaSemanticKernelAPI.Models;
 using OllamaSharp;

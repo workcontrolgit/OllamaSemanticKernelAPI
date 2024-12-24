@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.SemanticKernel.ChatCompletion;
-using OllamaSemanticKernelAPI.Interfaces;
 using OllamaSemanticKernelAPI.Models;
 
 namespace OllamaSemanticKernelAPI.Controllers
